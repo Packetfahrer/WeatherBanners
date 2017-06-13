@@ -205,8 +205,6 @@ City *city;
                                 result = @"Hot";
                                 break;
                             case 40:
-                                result = @"Heavy Snow";
-                                break;
                             case 41:
                                 result = @"Scattered Snow Showers";
                                 break;
